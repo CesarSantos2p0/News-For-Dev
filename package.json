@@ -1,0 +1,16 @@
+{
+  "name": "treino-curso.dev",
+  "version": "1.0.0",
+  "description": "Repositório para treinar nas aulas do curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -1,3 +1,3 @@
-# treino-curso.dev
+# curso.dev Clone do TabNews 
 
-Repositório para treinar nas aulas do curso.dev
+Neste repositorio eu vou fazer um clone do site TabNews de acordo com as aulas do curso.dev.
